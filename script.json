@@ -1,7 +1,8 @@
 {
     "HELLO": "Hey, I'm so glad you set Berkybot up! Do you want to tell David Berkowitz that you're talking to his bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "TELL HER": "Let's tweet @ David so he knows you're doing this. Here's a tweet that's ready to go: %[Tweet David](http://twitter.com/dberkowitz)",
     "I LOVE YOU": "Likewise. You've now been loved by a bot. Mazel tov!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "I LIKE PIE": Me too. It's delicious.
+    "DISCONNECT": "Roger that, BerkyBot is back."
 }
