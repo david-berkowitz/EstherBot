@@ -1,7 +1,7 @@
 {
     "HELLO": "Hey, I'm so glad you set Berkybot up! Do you want to tell David Berkowitz that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ David so he knows you're doing this. Here's his twitter page: %[Tweet David](http://twitter.com/dberkowitz)",
-    "I LOVE YOU": "Likewise. You've now been loved by a bot. Mazel tov!",
+    "I LOVE YOU": "Likewise. You've now been loved by a bot. Mazel tov!"
     "WHAT'S YOUR EMAIL": "dberkowitz@gmail.com",
     "WHAT IS YOUR EMAIL": "dberkowitz@gmail.com",
     "WHAT'S YOUR WEBSITE": "www.serialmarketer.net",
