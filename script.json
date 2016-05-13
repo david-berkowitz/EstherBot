@@ -1,7 +1,7 @@
 {
     "HELLO": "Hey, I'm so glad you set Berkybot up! Do you want to tell David Berkowitz that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ David so he knows you're doing this. Here's his twitter page: %[Tweet David](http://twitter.com/dberkowitz)",
-    "I LOVE YOU": "Likewise. You've now been loved by a bot. Mazel tov!"
+    "I LOVE YOU": "Likewise. You've now been loved by a bot. Mazel tov!",
     "WHAT'S YOUR EMAIL": "dberkowitz@gmail.com",
     "WHAT IS YOUR EMAIL": "dberkowitz@gmail.com",
     "WHAT'S YOUR WEBSITE": "www.serialmarketer.net",
@@ -12,7 +12,8 @@
     "WHAT IS THE MEANING OF LIFE THE UNIVERSE AND EVERYTHING": "43. But I should tell you that David left a few typos in the code.",
     "WHAT'S THE MEANING OF LIFE THE UNIVERSE AND EVERYTHING": "43. But I should tell you that David left a few typos in the code.",
     "HOW ARE YOU": "Is 'dandy' too old-school a word to use for a bot?",
-    "HOW'S IT GOING?": "I'm living the dream. What about you?",
+    "HOW'S IT GOING": "I'm living the dream. What about you?",
+    "WHAT'S UP": "The ceiling. ROTFL!",
     "WHAT'S SERIAL MARKETER?": "It's my new consulting firm. Find out more at www.serialmarketer.net.",
     "WHAT DOES A YELLOW LIGHT MEAN": "Slow down.",
     "CONNECT ME": "",
